@@ -1,0 +1,15 @@
+{
+  "name": "pwm",
+  "version": "1.0.0",
+  "scripts": {
+    "npm": "npm i",
+    "build": "tsc -p ."
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cryptr": "^6.1.0",
+    "fs-extra": "^11.1.0",
+    "mkdirp": "^1.0.4",
+    "vorpal": "^1.12.0"
+  }
+}
